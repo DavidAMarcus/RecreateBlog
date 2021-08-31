@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+body {
+    font-family: 'Lato', sans-serif;
+    border: 20px solid #BDC3C7;
+    border-radius: 2%;
+    border-width: 80%;
+}
+
+h2:hover {
+    letter-spacing: 15px;
+    text-align: center;
+}
+
+h2 { 
+    letter-spacing: 3.2px;
+    font-size: 48px;
+    padding-left: 2%;
+    font-weight: bold;
+    color: #3D3D3D;
+}
+
+h4 {
+    text-transform: uppercase;
+    padding-right: 2%;
+    text-align:right;
+    font-weight: lighter;
+    color: #3498DB
+}
+
+h4:hover {
+    letter-spacing: 20px;
+    text-align: center;
+}
+
+p {
+    border-bottom: solid silver 6px;
+    margin-left: 2%;
+    margin-right: 3%;
+    padding-bottom: 1.5%;
+    color: #BDC3C7
+    border: 5px #BDC3C7 solid;
+    border-radius: 10%;
+}
+
+#midline {
+    border-bottom: solid #BDC3C7 12px;
+    margin-left: 2%;
+    margin-right: 3%;
+    padding-bottom: 1.5%;
+}
+
+.right {
+    /* padding-left: 1%; */
+    text-align: right;
+}
+
+.center {
+    text-align: center;
+}
+h5 {
+    text-align: center;
+    color: rgb(0, 4, 255);
+}
+h5:hover {
+    letter-spacing: 15px;
+    text-align: center;
+}
