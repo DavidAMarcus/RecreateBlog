@@ -34,17 +34,15 @@ h4:hover {
 }
 
 p {
-    border-bottom: solid silver 6px;
+    border-bottom: solid #BDC3C7 5px;
     margin-left: 2%;
     margin-right: 3%;
     padding-bottom: 1.5%;
-    color: #BDC3C7
-    border: 5px #BDC3C7 solid;
-    border-radius: 10%;
+    border-color: #BDC3C7 solid;
 }
 
 #midline {
-    border-bottom: solid #BDC3C7 12px;
+    border-bottom: solid #BDC3C7 10px;
     margin-left: 2%;
     margin-right: 3%;
     padding-bottom: 1.5%;
